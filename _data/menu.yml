@@ -1,14 +1,11 @@
 entries:
-  - title: Tutti i post
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: Tutti gli altri...
-      show_more_url: archive
-
   - title: Cairn 2e
     post_list:
       limit: 5
+      category: cairn-2e
       show_more: true
       show_more_text: Tutti gli altri...
       show_more_url: cairn-2e-archive
+
+  - title: rss
+    url: feed.xml
