@@ -1,1 +1,3 @@
-TRY
+---
+layout: home
+---
