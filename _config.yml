@@ -1,13 +1,34 @@
 title: Le sessioni del Viandante
-description: Un log delle giocate per restare aggiornati su come è andata
+author: "@viandante – Luca Fedrizzi"
 email: riccardo.graziosi97@gmail.com
 url: https://gdr.viandante.blog
-author: "@viandante – Luca Fedrizzi"
+baseurl: "/"
+description: Un log delle giocate per restare aggiornati su come è andata
+
+permalink: /:slug
+favicon: "logo.png"
 
 remote_theme: riggraz/no-style-please
-permalink: /:slug
 
 theme_config:
+  appearance: "auto"
+  date_format: "%Y-%m-%d"
   show_description: true
   back_home_text: "←"
   lowercase_titles: false
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jektex
+
+jektex:
+  cache_dir: ".jektex-cache"
+  ignore: ["*.xml"]
+  silent: false
+  macros:
+    - ["\\Q", "\\mathbb{Q}"]
+    - ["\\C", "\\mathbb{C}"]
