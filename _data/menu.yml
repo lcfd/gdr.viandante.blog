@@ -5,7 +5,7 @@ entries:
       category: cairn-2e
       show_more: true
       show_more_text: Tutti gli altri...
-      show_more_url: cairn-2e-archive
+      show_more_url: cairn-2e-archive.html
 
-  - title: rss
+  - title: RSS
     url: feed.xml
