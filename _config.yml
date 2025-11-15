@@ -1,4 +1,13 @@
-remote_theme: riggraz/no-style-please
-
 title: Le sessioni del Viandante
 description: Un log delle giocate per restare aggiornati su come è andata
+email: riccardo.graziosi97@gmail.com
+url: https://gdr.viandante.blog
+author: "@viandante – Luca Fedrizzi"
+
+remote_theme: riggraz/no-style-please
+permalink: /:slug
+
+theme_config:
+  show_description: true
+  back_home_text: "←"
+  lowercase_titles: false
