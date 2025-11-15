@@ -5,7 +5,7 @@ url: https://gdr.viandante.blog
 baseurl: "/"
 description: Un log delle giocate per restare aggiornati su come è andata
 
-permalink: /:slug
+permalink: /:slug.html
 favicon: "logo.png"
 
 remote_theme: riggraz/no-style-please
