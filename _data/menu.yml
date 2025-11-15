@@ -2,7 +2,7 @@ entries:
   - title: Cairn 2e
     post_list:
       limit: 5
-      category: cairn-2e
+      category: cairn2e
       show_more: true
       show_more_text: Tutti gli altri...
       show_more_url: cairn-2e-archive.html
