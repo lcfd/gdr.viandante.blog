@@ -78,4 +78,4 @@ Scortano il professore al molo senza problemi e vengono accolti da una scorta ar
 **Ricompensa**
 
 - 500 MO
-- - 500 MO extra per il lavoro extra
+- `+` 500 MO extra per il lavoro extra
