@@ -65,6 +65,8 @@ Il professore ristabilizza il composto evitando di far saltare tutti in aria.
 
 Scortano il professore al molo senza problemi e vengono accolti da una scorta armata fino ai denti.
 
+**Questioni in sospeso**
+
 - Chi è questa scorta armata che stava aspettando la compagnia?
 - La collana misteriosa che segreti nasconde?
 - Il libro del capo degli Uomini Pesce perchè sembra prezioso?
