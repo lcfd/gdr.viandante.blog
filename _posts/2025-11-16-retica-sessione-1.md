@@ -3,9 +3,7 @@ layout: post
 category: cairn2eretica
 ---
 
-# 2025-11-16 Retica - Sessione 1
-
-## Giocatori
+2025-11-16
 
 - Biagio – il barbiere-chirurgo
 - Briaren – il domatore di bestie (uccelli)
