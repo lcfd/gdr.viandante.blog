@@ -33,6 +33,7 @@ Notano che ci sono sempre più segni di lotta e violenza attorno a loro.
 Arrivati a poppa salgono dove c'è il timone, trovando quello che sembra essere il capitano, morto. Attorno lui ci sono ben quattro Uomini Pesce morti. Ha venduto cara la pelle.
 
 Scendono sotto coperta e trovano un marinaio che sta venendo intrappolato da due Uomini Pesce che si sono appena liberati da delle reti da pesca. Dopo aver ucciso il primo Uomo Pesce gli altri scappano verso l'interno della nave.
+Il marinaio è Finch. Ha un e v i d e n t e amore per gli alcolici, è simpatico e disponibile—per quello che riesce.
 
 Proseguendo si ritrovano in una stanza pericolante, con alcuni punti sensibili che se toccati avrebbero fatto crollare tutto.
 Evitano i punti stando sui lati della stanza. Una volta usciti il soffitto crolla, si vede il cielo azzurro.
