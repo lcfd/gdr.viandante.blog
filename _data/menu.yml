@@ -11,5 +11,12 @@ entries:
       show_more_text: Le altre sessioni...
       show_more_url: cairn2eretica-archive.html
 
+  - title: Cairn 2e - Val di Cember
+    post_list:
+      category: cairn2evaldicember
+      show_more: true
+      show_more_text: Le altre sessioni...
+      show_more_url: cairn2evaldicember-archive.html
+
   - title: rss
     url: feed.xml
