@@ -61,6 +61,8 @@ Trovano la biblioteca e la bibliotecaria che gli mostra l'unico dizionario in gr
 
 "Nutrimento... piante..."
 
+Si accampano e passano una notte tranquilla.
+
 Portano il mulo davanti alla porta misteriosa.
 Dopo una buona carota lui subito 💩.
 Delle piante rigogliose e vive aprono la porta, rimuovendo il sigillo.
