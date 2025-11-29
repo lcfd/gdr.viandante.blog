@@ -81,3 +81,4 @@ Da questi primi passi nel sotterraneo hanno rimediato 140 PO da un forziere e qu
 
 - Andare avanti nei sotterranei di Torpicena.
 - Arrivare a Sempergiac ed esplorarlo.
+- Trovare la madre della famiglia.

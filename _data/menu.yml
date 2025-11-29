@@ -1,22 +1,27 @@
 entries:
-  - title: Il blog
-    entries:
-      - title: viandante.blog
-        url: https://viandante.blog
-
   - title: Cairn 2e - Retica
     post_list:
       category: cairn2eretica
       show_more: true
       show_more_text: Le altre sessioni...
-      show_more_url: cairn2eretica-archive.html
+      show_more_url: cairn2eretica-archive
+    entries:
+      - title: Compagnia Sole Rosso
+        url: retica/compagnia-sole-rosso
+      - title: Ordine dei Portatori dell'Alba
+        url: retica/ordine-portatori-dell-alba
 
   - title: Cairn 2e - Val di Cember
     post_list:
       category: cairn2evaldicember
       show_more: true
       show_more_text: Le altre sessioni...
-      show_more_url: cairn2evaldicember-archive.html
+      show_more_url: cairn2evaldicember-archive
+
+  - title: Il blog
+    entries:
+      - title: viandante.blog
+        url: https://viandante.blog
 
   - title: rss
     url: feed.xml
