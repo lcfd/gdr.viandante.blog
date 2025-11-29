@@ -1,15 +1,18 @@
 entries:
   - title: Cairn 2e - Retica
-    post_list:
-      category: cairn2eretica
-      show_more: true
-      show_more_text: Le altre sessioni...
-      show_more_url: cairn2eretica-archive
     entries:
-      - title: Compagnia Sole Rosso
-        url: retica/compagnia-sole-rosso
-      - title: Ordine dei Portatori dell'Alba
-        url: retica/ordine-portatori-dell-alba
+      - title: Compendio e avanzamento
+        entries:
+          - title: Compagnia Sole Rosso
+            url: retica/compagnia-sole-rosso
+          - title: Ordine dei Portatori dell'Alba
+            url: retica/ordine-portatori-dell-alba
+      - title: Sessioni
+        post_list:
+          category: cairn2eretica
+          show_more: true
+          show_more_text: Le altre sessioni...
+          show_more_url: cairn2eretica-archive
 
   - title: Cairn 2e - Val di Cember
     post_list:
