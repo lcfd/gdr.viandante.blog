@@ -19,11 +19,11 @@ Prossimo livello (1): 0/1000 PO
   - lvl 0
 - ??? (sblocco a Sede lvl 1)
   - lvl 0
-- ??? (sblocco a Sede lvl 1)
+- ??? (sblocco a Sede lvl 2)
   - lvl 0
-- ??? (sblocco a Sede lvl 1)
+- ??? (sblocco a Sede lvl 3)
   - lvl 0
-- ??? (sblocco a Sede lvl 1)
+- ??? (sblocco a Sede lvl 4)
   - lvl 0
 
 ## Membri
