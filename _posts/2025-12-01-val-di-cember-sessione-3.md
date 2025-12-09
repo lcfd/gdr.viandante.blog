@@ -61,11 +61,18 @@ Sedira li guida conoscendo molto bene dove si trova l'entrata, senza sarebbe sta
 Entrano, e vedono subito dei granchi molto grossi che scappano in tutte le direzioni.
 Avanzano verso destra e trovano un sacco di cadaveri vestiti come gli Alchimisti. Danno fuoco ai cadaveri.
 
-...da finire
+In una specie di laboratorio incontrano tre Alchimisti e li ingaggiano in combattimento.
+Riescono a vincere e a catturarne uno. L'uomo riesce a dire solamente "Spettri!" e a morire.
+
+Avanzano ancora e scelgono nuovamente di andare a destra visto che a sinistra c'è rumore di vento e basta.
+
+Arrivano in una stanza con uno specchio al centro, della nebbiolina densa lo circonda.
+Tutto attorno alla stanza ci sono delle cappe nere appese.
+Proprio quelle che indossano gli Alchimisti. Nell'aria eccheggiano urla distanti e raccapriccianti.
 
 `<fine sessione>`
 
 **Questioni in sospeso**
 
-- Arrivare a Sempergiac ed esplorarlo.
+- Esplorare Sempergiac.
 - Trovare la madre della famiglia.
